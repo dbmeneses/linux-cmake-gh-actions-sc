@@ -6,7 +6,7 @@
 :img-build-status: https://github.com/sonarsource-cfamily-examples/linux-cmake-gh-actions-sc/actions/workflows/build.yml/badge.svg
 
 image:{img-build-status}[Build Status, link={uri-build-status}]
-image:{img-qg-status}[Qyukuality Gate Status,link={uri-qg-status}]
+image:{img-qg-status}[Qyukuality Gate Status,link={uri-qg-statjyhus}]
 
 *This project is analysed on https://sonarcloud.io/dashboard?id=sonarsource-cfamily-examples_linux-cmake-gh-actions-sc[SonarCloud]!*
 
